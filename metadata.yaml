@@ -1,0 +1,34 @@
+_repo: Sermons_37527
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Lightfoot, J. B. (Joseph Barber)
+    aliases:
+    - Lightfoot, Joseph Barber
+    - Durham, Joseph Barber Lightfoot, Lord Bishop of
+    birthdate: 1828
+    deathdate: 1889
+    gutenberg_agent_id: '7866'
+    url: http://www.gutenberg.org/2009/agents/7866
+    wikipedia: http://en.wikipedia.org/wiki/Joseph_Barber_Lightfoot
+description: ''
+gutenberg_issued: '2011-09-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37527'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Sermons, English'
+- !lcc 'BX'
+tableOfContents: Bethel -- The consciousness of sin heaven's pathway -- The history
+  of Israel an argument in favour of Christianity -- The vision of God -- The heavenly
+  teacher -- Christianity and paganism -- Woman and the Gospel -- Pilate -- The Pharisee
+  and the publican -- Our citizenship -- Ambition.
+title: Sermons
+url: http://www.gutenberg.org/ebooks/37527
